@@ -3,10 +3,11 @@ body {
     margin: 0;
     padding: 0;
     color: #333;
+    background-image: linear-gradient(to top, rgba(58, 204, 29, 0.5), rgba(70, 190, 70, 0.1));
 }
 
 .hero {
-    background-image: url('https://example.com/hero-image.jpg'); /* Replace with a real image URL */
+    background-image: url('https://media.licdn.com/dms/image/D4D12AQHiNSZooBufag/article-cover_image-shrink_720_1280/0/1705753433998?e=2147483647&v=beta&t=-_tGpKaHNCP0IEgzeOLNabFF5o4AKlXoZkL3lblaGhg'); /* Replace with a real image URL */
     background-size: cover;
     background-position: center;
     height: 100vh;
